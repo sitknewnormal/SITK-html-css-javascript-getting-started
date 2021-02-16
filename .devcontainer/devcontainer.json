@@ -1,0 +1,13 @@
+{
+	"name": "SITK - HTML, CSS, JavaScript Getting Started.",
+    "build": {
+        "dockerfile": "Dockerfile",
+    },
+	"settings": {
+		"terminal.integrated.shell.linux": "/bin/bash"
+	},
+	"extensions": [
+		"eamodio.gitlens",
+		"ritwickdey.liveserver"
+	],
+}
